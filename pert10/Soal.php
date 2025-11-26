@@ -1,3 +1,4 @@
+<?php
 class Soal {
     private $text;
     private $options;
@@ -42,3 +43,4 @@ class Soal {
         return "Jawaban tidak ditemukan";
     }
 }
+?>
