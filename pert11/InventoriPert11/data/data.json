@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "name": "Oreo",
+        "price": 8600,
+        "stock": 4,
+        "category": "Makanan Ringan"
+    },
+    {
+        "id": 4,
+        "name": "Indomie",
+        "price": 3500,
+        "stock": 100,
+        "category": "Makanan"
+    },
+    {
+        "id": 6,
+        "name": "Susu Hilo",
+        "price": 15000,
+        "stock": 10,
+        "category": "Minuman"
+    }
+]
